@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|c:\\users\\user-pc\\source\\repos\\breakdownapi\\breakdownapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|solutionrelative:breakdownapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|c:\\users\\user-pc\\source\\repos\\breakdownapi\\breakdownapi\\controllers\\breakdownscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|solutionrelative:breakdownapi\\controllers\\breakdownscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|c:\\users\\user-pc\\source\\repos\\breakdownapi\\breakdownapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|solutionrelative:breakdownapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|c:\\users\\user-pc\\source\\repos\\breakdownapi\\breakdownapi\\models\\breakdowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|solutionrelative:breakdownapi\\models\\breakdowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|c:\\users\\user-pc\\source\\repos\\breakdownapi\\breakdownapi\\models\\breakdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D313B7-C2F6-4835-B593-4183F6C36E6A}|BreakdownAPI\\BreakdownAPI.csproj|solutionrelative:breakdownapi\\models\\breakdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BreakdownAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\appsettings.json",
+              "RelativeToolTip": "BreakdownAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T09:52:48.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BreakdownAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Program.cs",
+              "RelativeToolTip": "BreakdownAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:50:35.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BreakdownsController.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Controllers\\BreakdownsController.cs",
+              "RelativeDocumentMoniker": "BreakdownAPI\\Controllers\\BreakdownsController.cs",
+              "ToolTip": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Controllers\\BreakdownsController.cs",
+              "RelativeToolTip": "BreakdownAPI\\Controllers\\BreakdownsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:49:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakdownContext.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Models\\BreakdownContext.cs",
+              "RelativeDocumentMoniker": "BreakdownAPI\\Models\\BreakdownContext.cs",
+              "ToolTip": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Models\\BreakdownContext.cs",
+              "RelativeToolTip": "BreakdownAPI\\Models\\BreakdownContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:49:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Breakdown.cs",
+              "DocumentMoniker": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Models\\Breakdown.cs",
+              "RelativeDocumentMoniker": "BreakdownAPI\\Models\\Breakdown.cs",
+              "ToolTip": "C:\\Users\\user-pc\\source\\repos\\BreakdownAPI\\BreakdownAPI\\Models\\Breakdown.cs",
+              "RelativeToolTip": "BreakdownAPI\\Models\\Breakdown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:48:58.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
